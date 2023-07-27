@@ -1,1 +1,1 @@
-This is the changes made in the local branch and pushed to the remote branch
+This is changes made in the remote branch.
